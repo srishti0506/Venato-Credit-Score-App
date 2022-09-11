@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="peach1">#fce3dc</color>
+    <color name="peach2">#eeada5</color>
+    <color name="peach3">#edc7b6</color>
+    <color name="peach4">#fb9562</color>
+    <color name="peach5">#a8979c</color>
+    <color name="peach6">#413141</color>
+    <color name="peach7">#d24c49</color>
+    <color name="peach8">#8e7788</color>
+
+    <color name="peach9">#fccab3</color>
+    <color name="peach10">#fcf7f4</color>
+    <color name="peach11">#b8443b</color>
+    <color name="peach12">#da9170</color>
+    <color name="peach13">#30202b</color>
+    <color name="peach14">#a89da2</color>
+    <color name="peach15">#7f788c</color>
+    <array name="rainbow">
+        <item>@color/peach4</item>
+        <item>@color/peach5</item>
+        <item>@color/peach2</item>
+        <item>@color/peach7</item>
+        <item>@color/peach8</item>
+        <item>@color/peach9</item>
+        <item>@color/peach10</item>
+        <item>@color/peach13</item>
+        <item>@color/peach14</item>
+        <item>@color/peach11</item>
+        <item>@color/peach12</item>
+        <item>@color/peach15</item>
+        <item>@color/peach1</item>
+        <item>@color/peach6</item>
+        <item>@color/peach2</item>
+        <item>@color/peach3</item>
+
+    </array>
+</resources>
